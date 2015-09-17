@@ -3,4 +3,4 @@ dummy-git
 
 just to play around with git
 
-thsis 
+This much is added
